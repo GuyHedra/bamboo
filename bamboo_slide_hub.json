@@ -1,0 +1,22 @@
+{
+  "_strut_OD": "18.7",
+  "_cap_length": "20",
+  "_pin_hole_ID": "6",
+  "_wall_thick": "1",
+  "_pin_length": "6",
+  "_reference_hub_ID": "26",
+  "_hub_length": "40",
+  "_t_hole_ID": "9.9",
+  "_t_hole_z_offset": "39",
+  "_t_hole_count": "6",
+  "_hub_clear": "0.7",
+  "_cone_angle": "50",
+  "_base_height": "26",
+  "_funnel_height": "8",
+  "_t_slot_x": "3.5",
+  "_t_slot_y": "20",
+  "_t_slot_z": "31",
+  "_lip_thick": "1.2",
+  "_funnel_lip": "3",
+  "_latch_thick": "4"
+}
