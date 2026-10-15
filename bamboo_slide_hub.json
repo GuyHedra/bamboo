@@ -27,7 +27,7 @@
   "_t_stop_OD": "11",
   "_t_cup_wall_thick": "3",
   "_t_cup_lip_height": "3",
-  "_t_cup_z_offset": "18",
+  "_t_cup_z_offset": "20",
   "_lid_thick": "4",
   "_lid_boss_width": "3.5",
   "_lid_boss_count": "2",
@@ -38,5 +38,6 @@
   "_lid_socket_wall_thick": "3",
   "_lid_vertical_clear": "0.5",
   "_lid_chamfer_angle": "pi/4",
-  "_lid_OR_minor_offset": "1.7"
+  "_lid_OR_minor_offset": "1.7",
+  "_base_height_z_offset": "2"
 }
